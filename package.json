@@ -1,6 +1,6 @@
 {
     "name": "publish_sdks",
-    "main": "src/index.ts",
+    "main": "index.ts",
     "devDependencies": {
         "@types/node": "^18",
         "typescript": "^5.0.0"
